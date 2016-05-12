@@ -1,5 +1,5 @@
 36.231.184.0
-183.60.48.0 (abuse_gdnoc)IPMASTER is not for spam complaint,please send spam complaint to abuse_gdnoc@189.cn
+183.60.48.0
 222.186.34.0
 185.56.82.0
 115.23.213.0
