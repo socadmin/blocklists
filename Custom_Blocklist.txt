@@ -617,3 +617,9 @@ www.thungnhua.net
 94.23.164.93
 95.83.156.2
 secure-links.bloemlight.com
+secure-links.bloemlight.com
+secure-links.bloemlight.com/*
+*.bloemlight.com
+https.securelinks.bloemlight.com/
+52.31.224.224
+54.171.243.53
